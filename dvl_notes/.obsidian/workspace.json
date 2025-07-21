@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat Sheets/python_regex.md",
+                "file": "from_gh/new_scripts/batch_mount.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python_regex"
+              "title": "batch_mount"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat Sheets/python_regex.md",
+                "file": "from_gh/new_scripts/batch_mount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for python_regex"
+              "title": "Backlinks for batch_mount"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat Sheets/python_regex.md",
+                "file": "from_gh/new_scripts/batch_mount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from python_regex"
+              "title": "Outgoing links from batch_mount"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat Sheets/python_regex.md",
+                "file": "from_gh/new_scripts/batch_mount.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of python_regex"
+              "title": "Outline of batch_mount"
             }
           }
         ]
@@ -168,8 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3986e4483b8271f9",
+  "active": "4274d40dfa05934c",
   "lastOpenFiles": [
+    "from_gh/new_scripts/bash_cheat_sheet.md",
+    "from_gh/new_scripts/awk_cheat_sheet.md",
+    "from_gh/new_scripts/batch_xcopy.md",
+    "from_gh/new_scripts/batch_mount_v2.md",
+    "from_gh/new_scripts/batch_mount.md",
+    "from_gh/py_snippets/pandas_data.md",
+    "from_gh/py_snippets/pandas_cheat.md",
+    "from_gh/py_snippets/pandas.md",
+    "from_gh/py_snippets/credentials.md",
+    "from_gh/py_snippets/brocade_parsers_v1.md",
+    "Cheat Sheets/python_regex.md",
     "from_gh/useful_python/xlswriter_styles.md",
     "from_gh/useful_python/xlswriter_set_color_on_value.md",
     "from_gh/useful_python/xlswriter_links.md",
@@ -185,17 +196,6 @@
     "from_gh/useful_python/sannav_rest.md",
     "from_gh/useful_python/sannav_example.md",
     "from_gh/useful_python/run_commands.md",
-    "from_gh/useful_python/rest_guide.md",
-    "from_gh/useful_python/regex_finder.md",
-    "from_gh/useful_python/regex_examples.md",
-    "from_gh/useful_python/Quest.md",
-    "from_gh/useful_python/python_xml_analyze.md",
-    "from_gh/useful_python/python_class_basic.md",
-    "from_gh/useful_python/python_boilerplate.md",
-    "from_gh/useful_python/python_alishow.md",
-    "from_gh/useful_python/py_unisphere_capacity.md",
-    "from_gh/useful_python/pure_rest.md",
-    "from_gh/useful_python/pshell_ad_search.md",
     "from_gh/useful_python",
     "from_gh/python_functions",
     "from_gh/py_snippets",
