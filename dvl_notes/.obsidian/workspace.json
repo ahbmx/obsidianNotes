@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Cheat Sheets/python_regex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main"
+              "title": "python_regex"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "Cheat Sheets/python_regex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Main"
+              "title": "Backlinks for python_regex"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "Cheat Sheets/python_regex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Main"
+              "title": "Outgoing links from python_regex"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md",
+                "file": "Cheat Sheets/python_regex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Main"
+              "title": "Outline of python_regex"
             }
           }
         ]
@@ -168,9 +168,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4274d40dfa05934c",
+  "active": "3986e4483b8271f9",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Main.md"
+    "from_gh/useful_python/xlswriter_styles.md",
+    "from_gh/useful_python/xlswriter_set_color_on_value.md",
+    "from_gh/useful_python/xlswriter_links.md",
+    "from_gh/useful_python/xlswriter_examples.md",
+    "from_gh/useful_python/xlswriter_demo.md",
+    "from_gh/useful_python/xlswriter_color_cond.md",
+    "from_gh/useful_python/xlswriter.md",
+    "from_gh/useful_python/univmax_rest.md",
+    "from_gh/useful_python/timeit.md",
+    "from_gh/useful_python/tabular_output.md",
+    "from_gh/useful_python/secure_cred.md",
+    "from_gh/useful_python/sannav_rest_vf.md",
+    "from_gh/useful_python/sannav_rest.md",
+    "from_gh/useful_python/sannav_example.md",
+    "from_gh/useful_python/run_commands.md",
+    "from_gh/useful_python/rest_guide.md",
+    "from_gh/useful_python/regex_finder.md",
+    "from_gh/useful_python/regex_examples.md",
+    "from_gh/useful_python/Quest.md",
+    "from_gh/useful_python/python_xml_analyze.md",
+    "from_gh/useful_python/python_class_basic.md",
+    "from_gh/useful_python/python_boilerplate.md",
+    "from_gh/useful_python/python_alishow.md",
+    "from_gh/useful_python/py_unisphere_capacity.md",
+    "from_gh/useful_python/pure_rest.md",
+    "from_gh/useful_python/pshell_ad_search.md",
+    "from_gh/useful_python",
+    "from_gh/python_functions",
+    "from_gh/py_snippets",
+    "from_gh/new_scripts",
+    "from_gh",
+    "Perl",
+    "Shell",
+    "AWK",
+    "Python",
+    "Cheat Sheets"
   ]
 }
